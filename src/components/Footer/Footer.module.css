@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+.iner{
+    background-color: aquamarine;
+    width: 100% !important;
+}
